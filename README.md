@@ -1,4 +1,5 @@
 # A general ChatGPT bot for your slack channel
+robinjiangdh
 
 [Deploy this function on flows.network](#deploy-chatgpt-slack-bot-on-your-slack-channel), and you will get a Slack bot that uses ChatGPT to respond to every question in your Slack workspace automatically.
 
